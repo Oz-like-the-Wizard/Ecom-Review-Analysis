@@ -11,9 +11,10 @@ There are three main parts of this project:
 - Example screenshots from the project can be found in the repository.
 
 - The heatmap needs to have 3 color ranges based on the average score of the category:
- -- Red: if the average score is lower than 4
- -- Yellow: if the average score is between 4 - 4.5
- -- Green: if the average score is above 4.5
+ 
+ - Red: if the average score is lower than 4
+ - Yellow: if the average score is between 4 - 4.5
+ - Green: if the average score is above 4.5
  
  3- Apply & display the results of Welsh's t-test & effect size to analyze if there is significant difference between the brand/category score and the attribute average
 
